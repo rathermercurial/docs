@@ -6,7 +6,7 @@ description: >-
 layout: editorial
 ---
 
-# Workstream Co-Lead Role Description (Revised - WIP)
+# Workstream Co-Lead Role Description (Revised)
 
 The "Workstream Co-Lead" is an elected role within the RabbitHole Metagovernance Pod which oversees the day-to-day operations of the workstream while driving successful outcomes and facilitates coordination and communication across other workstreams and the core team (via the Pathfinder Committee).
 
@@ -47,11 +47,11 @@ Due to the mission-critical nature of this role, contributors are required to me
 
 ### 💪 Activities & Responsibilities
 
-Workstream co-leads are responsible for a variety of activities and outcomes throughout their workgroups and the MGP. This includes general management workstream operations and projects, participation in the Pathfinder Committee and interacting with other roles/teams as needed to coordinate and drive successful outcomes across the pod.
+Workstream co-leads are responsible for a variety of activities and outcomes throughout their workstreams and the MGP. This includes general management workstream operations and projects, participation in the Pathfinder Committee and interacting with other roles/teams as needed to coordinate and drive successful outcomes across the pod.
 
 #### ➡️ Workstream Responsibilities
 
-Co-Leads are responsible for the management of day-to-day operations, hosting meetings and facilitating discussions, onboarding new contributors, providing assistance, answering questions and stewarding the stream's projects and goals to completion.
+Co-Leads are responsible for the management of day-to-day operations, hosting meetings and facilitating discussions, onboarding new contributors, providing assistance, answering questions and stewarding the workstream's projects and goals to completion.
 
 * General management of day-to-day workstream operations:
   * Plan and host regular team meetings
@@ -78,7 +78,7 @@ Workstream co-leads are responsible for coordinating interactions across workstr
 
 * Coordinating with other workstream leads via the pathfinder committee.
 * Working with core co-leads to manage interactions and information flow between the pod and core team.
-* Participate in meetings and activities within other streams as needed to maintain context and provide assistance if requested
+* Participate in meetings and activities within other workstreams as needed to maintain context and provide assistance if requested
 
 #### ☑️ Decision-Making Authority & Limitations
 
@@ -147,11 +147,11 @@ Due to the mission-critical nature of this role, contributors are required to me
 
 ## 💪 Activities & Responsibilities
 
-Workstream co-leads are responsible for a variety of activities and outcomes throughout their workgroups and the MGP. This includes general management workstream operations and projects, participation in the Pathfinder Committee and interacting with other roles/teams as needed to coordinate and drive successful outcomes across the pod.
+Workstream co-leads are responsible for a variety of activities and outcomes throughout their workstreams and the MGP. This includes general management workstream operations and projects, participation in the Pathfinder Committee and interacting with other roles/teams as needed to coordinate and drive successful outcomes across the pod.
 
 ### ➡️ Workstream Responsibilities
 
-Co-Leads are responsible for the management of day-to-day operations, hosting meetings and facilitating discussions, onboarding new contributors, providing assistance, answering questions and stewarding the stream's projects and goals to completion.
+Co-Leads are responsible for the management of day-to-day operations, hosting meetings and facilitating discussions, onboarding new contributors, providing assistance, answering questions and stewarding the workstream's projects and goals to completion.
 
 - General management of day-to-day workstream operations:
   - Plan and host regular team meetings
@@ -178,7 +178,7 @@ Workstream co-leads are responsible for coordinating interactions across workstr
 
 - Coordinating with other workstream leads via the pathfinder committee.
 - Working with core  co-leads to manage interactions and information flow between the pod and core team.
-- Participate in meetings and activities within other streams as needed to maintain context and provide assistance if requested
+- Participate in meetings and activities within other workstreams as needed to maintain context and provide assistance if requested
 
 ### ☑️ Decision-Making Authority & Limitations
 
