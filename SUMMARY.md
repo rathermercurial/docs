@@ -21,5 +21,6 @@
   * [Boardroom Metadata for RabbitHole](rabbithole/policy/boardroom-metadata-for-rabbithole.md)
   * [Request for Feedback: Due Process for Compensation Decisions](rabbithole/policy/comp-due-process.md)
   * [Workstream Co-Lead Role Description (Revised)](rabbithole/policy/co-lead-description.md)
+  * [Researcher Role Description](rabbithole/policy/researcher-role-description.md)
 * [v0 Documentation](https://v0.rabbithole.rathermercurial.xyz)
 * [Voting Activity Archive](https://rabbithole-2.gitbook.io/metagovernance/)
