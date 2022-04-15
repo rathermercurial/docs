@@ -22,6 +22,10 @@
   * [Request for Feedback: Due Process for Compensation Decisions](rabbithole/policy/comp-due-process.md)
   * [Workstream Co-Lead Role Description (Revised)](rabbithole/policy/co-lead-description.md)
   * [Researcher Role Description](rabbithole/policy/researcher-role-description.md)
-  * [Metagov Pod v1 Budget Proposal (v2)](rabbithole/policy/v1-budget-v2.md)
+  * [Metagov Pod v1 Budget Proposal (Draft v2)](rabbithole/policy/v1-budget-v2.md)
 * [v0 Documentation](https://v0.rabbithole.rathermercurial.xyz)
 * [Voting Activity Archive](https://rabbithole-2.gitbook.io/metagovernance/)
+
+***
+
+* [Strategic Partnership Analysis: Aave x Curve Finance (Revision)](strategic-partnership-analysis-aave-x-curve-finance-revision.md)
