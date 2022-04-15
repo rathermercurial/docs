@@ -7,13 +7,13 @@ description: >-
 
 # Strategic Partnership Analysis: Aave x Curve Finance (Revision)
 
-Abstract
+<mark style="background-color:yellow;">This analysis explores opportunities to leverage Aave's CVX holdings to incentivize liquidity on Optimism, as part of a sustainable multichain TVL strategy.</mark>
 
 ### Aave x Curve Multichain TVL strategy
 
 A collaboration between Aave and Curve would lay groundwork for aToken utilization across many chains <mark style="background-color:yellow;">to which Aave v3 will be deploying</mark>. <mark style="color:orange;background-color:orange;">(Consider using active phrasing and condensing these two sentences into one</mark> 👉<mark style="color:orange;background-color:orange;">)</mark> There has been [talk](https://governance.aave.com/t/arc-consolidate-aave-v1-v2-amm-reserve-factors-purchase-cvx-and-deploy-to-earn-yield/6797) of acquiring 70,000 $CVX within the Aave governance forums lately. The aforementioned accrual of $CVX will give Aave a significant voice in Convex's governance, thus a major voice in the [Curve Wars](https://rekt.news/curve-wars/). Aave has the opportunity to incentivize aTokens across multiple chains by way of $CRV emissions for aPools. This not will both increase aToken utility across various chains, as well as increase Aave v3 TVL across various chains.
 
-<mark style="background-color:red;">This would Aave acquires the aforementioned amount of $CVX</mark>, Aave can then [create a gague](https://curve.fi/factory/create\_gauge) within Curve for aToken pools on chains that are either A) underperforming expectations in terms of TVL, or B) Aave v3 new launches. After creating the gauge, Aave's Convex holdings could then be used to vote on directing $CRV emissions to aPools on chains that Aave would like to grow their v3 markets on. In short, the Convex purchased can be utilized in a way that incentivizes deposits of aTokens within Curve, on specific chains that benefit Aave.
+<mark style="background-color:red;">This would Aave acquires the aforementioned amount of $CVX</mark>, Aave can then [create a gauge](https://curve.fi/factory/create\_gauge) within Curve for aToken pools on chains that are either A) underperforming expectations in terms of TVL, or B) Aave v3 new launches. After creating the gauge, Aave's Convex holdings could then be used to vote on directing $CRV emissions to aPools on chains that Aave would like to grow their v3 markets on. In short, the Convex purchased can be utilized in a way that incentivizes deposits of aTokens within Curve, on specific chains that benefit Aave.
 
 ![](.gitbook/assets/cb-png-piechart.png)
 
