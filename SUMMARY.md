@@ -1,31 +1,16 @@
 # Table of contents
 
-## RabbitHole
+* [rathermercurial's doc repo](README.md)
 
-* [Contributions to RabbitHole Metagovernance](README.md)
-* [Proposal Content](rabbithole/proposals/README.md)
-  * [Aave - Cronos Network Supplemental](rabbithole/proposals/cronos-network.md)
-  * [Aave - alUSD Listing Supplemental](rabbithole/proposals/alusd-listing.md)
-  * [ENS - EP6.1-2 Voting Rationale & Summary](rabbithole/proposals/ep6.1-2/README.md)
-    * [EP6.1-2 Markdown Version](rabbithole/proposals/ep6.1-2/markdown.md)
-  * [Aave - jEUR Listing Supplemental](rabbithole/proposals/readme-1.md)
-  * [Aave - agEUR Listing Supplemental](rabbithole/proposals/ageur-listing.md)
-  * [Wrap-Up Pilot Inner Content](rabbithole/proposals/wrap-up-pilot.md)
-* [Ideas & Policy Suggestions](rabbithole/policy/README.md)
-  * [Aave - Asset Listing Consideration Framework](rabbithole/policy/aave-asset-listings.md)
-  * [Metagov Documentation Framework Notes](rabbithole/policy/framework-notes.md)
-  * [Role Description Template](rabbithole/policy/role-specification-template.md)
-  * [Request for Feedback: Metagovernance Protocol Support Role (WIP)](rabbithole/policy/rfc-protocol-support.md)
-  * [Request for Feedback: Voting Priority Tiers](rabbithole/policy/voting-tiers.md)
-  * [Request for Feedback: Metagov Pod Documentation Framework](rabbithole/policy/doc-framework.md)
-  * [Boardroom Metadata for RabbitHole](rabbithole/policy/boardroom-metadata-for-rabbithole.md)
-  * [Request for Feedback: Due Process for Compensation Decisions](rabbithole/policy/comp-due-process.md)
-  * [Workstream Co-Lead Role Description (Revised)](rabbithole/policy/co-lead-description.md)
-  * [Researcher Role Description](rabbithole/policy/researcher-role-description.md)
-  * [Metagov Pod v1 Budget Proposal (Draft v2)](rabbithole/policy/v1-budget-v2.md)
-* [v0 Documentation](https://v0.rabbithole.rathermercurial.xyz)
-* [Voting Activity Archive](https://rabbithole-2.gitbook.io/metagovernance/)
+## personal
 
 ***
 
-* [Strategic Partnership Analysis: Aave x Curve Finance (Revision)](strategic-partnership-analysis-aave-x-curve-finance-revision.md)
+* [rathermercurial's web3 CV](rathermercurials-web3-cv.md)
+
+## Templates
+
+* [Steal These Document Templates](templates/readme.md)
+* [Request for Proposal (RFP) Template](templates/rfp.md)
+* [Service Proposal Template](templates/service-proposal.md)
+* [GitBook Markdown Template Template](templates/meta.md)
