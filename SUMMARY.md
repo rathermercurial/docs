@@ -6,7 +6,7 @@
 
 ***
 
-* [rathermercurial's web3 CV](rathermercurials-web3-cv.md)
+* [rathermercurial's web3 CV](cv.md)
 
 ## Templates
 
